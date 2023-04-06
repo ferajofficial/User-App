@@ -14,7 +14,13 @@ A user must choose the current location of himself/herself and set the location,
 
 In this section you will find the user's name, address, email, phone number, pin code, city, state, and country.
 
+
+                    #######################################################################
+                    
+
 Here are the some UI design samples:...
+
+
 -> Signin : (https://user-images.githubusercontent.com/110988843/230435720-9708e1de-a873-4125-8d8b-eb66b2c5bc32.jpeg)
 
 
