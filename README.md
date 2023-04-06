@@ -1,4 +1,4 @@
-An app that uses Flutter and Firebase, as well as a REST Full API, for logging in and signing up using email addresses and passwords. Google Sign in and Anonymous Sign In are also supported. It supports Android, iOS and Web as well.
+An app that uses Flutter and Firebase, as well as a RESTFul API, for logging in and signing up using email addresses and passwords. Google Sign in and Anonymous Sign In are also supported. It supports Android, iOS and Web as well.
 
 There are three Screens in this App i.e, 1.UserDetails , 2.UserLocation , 3.Profile .
 
@@ -6,7 +6,7 @@ There are three Screens in this App i.e, 1.UserDetails , 2.UserLocation , 3.Prof
 
 Details about the user, such as Name, Address, Email, Phone, Pin, City, State, Country, and the company he/she works for.
 
-2. User location:- (Used REST Full API #Open_street_map )
+2. User location:- (Used RESTFul API #Open_street_map )
 
 A user must choose the current location of himself/herself and set the location, which can also be modified later.
 
